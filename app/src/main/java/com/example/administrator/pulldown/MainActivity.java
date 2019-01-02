@@ -26,4 +26,8 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    private void substract(){
+        int i=20-10;
+    }
+
 }
