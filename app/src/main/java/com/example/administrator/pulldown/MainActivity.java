@@ -14,4 +14,8 @@ public class MainActivity extends AppCompatActivity {
     private void pullDownTest(){
      int i=55;   
     }
+
+    public void newMethod(){
+
+    }
 }
