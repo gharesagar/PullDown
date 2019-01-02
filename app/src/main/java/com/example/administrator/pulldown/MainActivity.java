@@ -27,8 +27,5 @@ public class MainActivity extends AppCompatActivity {
         String testConflicts="TestConflicts";
     }
 
-    private void substract(){
-        int i=20-10;
-    }
 
 }
