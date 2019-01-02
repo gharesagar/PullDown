@@ -10,9 +10,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-    
-    private void pullDownTest(){
-     int i=55;   
+
+    private void pullDownTest() {
+        int i = 55;
     }
 
     public void newMethod(){
