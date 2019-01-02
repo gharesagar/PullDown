@@ -19,4 +19,8 @@ public class MainActivity extends AppCompatActivity {
 
         String test="Testing";
     }
+
+    public void newMethod(){
+
+    }
 }
