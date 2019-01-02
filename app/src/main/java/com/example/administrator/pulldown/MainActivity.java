@@ -18,5 +18,6 @@ public class MainActivity extends AppCompatActivity {
     public void newMethod(){
 
         String test="Testing";
+        String test2="Testing2";
     }
 }
