@@ -15,9 +15,14 @@ public class MainActivity extends AppCompatActivity {
         int i = 55;
     }
 
-    public void newMethod(){
-        String test="Testing";
-        String test2="Testing2";
+    public void newMethod() {
+        String test = "Testing";
+        String test2 = "Testing2";
+    }
+
+    private void add(){
+        int i=2;
+
     }
 
 }
