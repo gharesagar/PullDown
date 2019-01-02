@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void newMethod(){
 
+        String test="Test";
     }
 }
