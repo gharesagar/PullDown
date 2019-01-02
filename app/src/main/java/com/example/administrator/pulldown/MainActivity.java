@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void add(){
         int i=2;
+        boolean isData=false;
 
     }
 
