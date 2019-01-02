@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         int i=2;
         boolean isData=false;
 
+        String testConflicts="TestConflicts";
     }
 
     private void substract(){
